@@ -1,0 +1,44 @@
+::-webkit-scrollbar-button
+  display none
+
+::-webkit-scrollbar
+  width 10px
+  height 10px
+  background-color: #2f415452
+
+::-webkit-scrollbar-thumb
+  border-radius 5px
+  background-color #2f4154
+  background-image -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)
+
+  &:hover
+    background-color #2f4154b8;
+
+#scroll-top-button 
+  border-radius 25px
+  -webkit-transition all .6s
+  -moz-transition all .6s
+  -o-transition all .6s
+  transition all .6s
+
+  &:hover 
+    transform scale(1.2)
+    border-radius 20%
+
+.markdown-body
+  pre
+    padding-bottom 5px
+
+    code
+      padding 1rem 0 .5rem 0
+
+      &::before
+        content ' '
+        position absolute
+        background #fc625d
+        border-radius 50%
+        box-shadow 20px 0 #fdbc40, 40px 0 #35cd4b
+        margin-top -20px
+        left 12px
+        height 12px
+        width 12px
