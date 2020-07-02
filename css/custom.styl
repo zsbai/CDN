@@ -42,3 +42,170 @@
         left 12px
         height 12px
         width 12px
+
+
+.icon
+  width 1.5em
+  height 1.5em
+
+.comments img
+  max-width 100%
+
+/* 切换按钮 */
+#dark
+  display none
+
+  i
+    font-size 1.25rem
+    color #EBA300
+
+  &:hover
+    background-color transparent
+
+#mdark i /* 页面切换图标的位置 */
+  position fixed
+  right 1rem
+  bottom 5rem
+  font-size 2rem
+  z-index 99
+  color #EBA300
+
+@media (min-width: 992px)
+  #mdark
+    display none
+  #dark
+    display block
+
+/*暗黑模式*/
+.dark
+  background-color #282c34
+
+  #dark, #mdark
+    i
+      color #757575
+
+  /* 背景遮罩 */
+  .mask
+    background-color rgba(0,0,0,.7) !important
+    // 打字机
+    span
+      color #a09c9c
+
+  /* 主体 */
+  #board 
+    background-color #282c34
+    color #a09c9c
+  
+  img  
+    filter brightness(60%)
+
+  p, .index-card a, .post-meta, .drop-cap
+    color #a09c9c
+
+  a
+    color #718096
+
+    &:hover
+      color #12977d
+
+  .post-meta .hover-with-bg
+    &::before
+      background #282C34
+
+    &::after
+      background #282C34
+
+  .markdown-body
+    h1, h2, h3, h4, h5, h6, li, s
+      color:#a09c9c !important
+
+    blockquote
+      border-left .25em solid #6c6c6c;
+
+  .hover-with-bg:hover
+    background-color #24282F
+
+  /* 顶栏 */
+  .nav-link, .navbar-brand
+    color:#a09c9c !important
+
+  .navbar-col-show, .top-nav-collapse
+    background-color rgba(40, 44, 52, .8)
+
+  .animated-icon span   /* 手机端 */
+    background-color #a09c9c
+
+  /* page-number */
+  .pagination
+    .current, a:hover
+      background-color #6b6b6b73
+
+  /* back to top */
+  #scroll-top-button
+    background-color #282c34
+
+    i
+      color #a09c9c 
+
+  /* Toc */
+  .tocbot-list a
+    color #a09c9c
+
+  .tocbot-active-link, footer a:hover
+    color #1abc9c !important
+
+  /* footer */
+  footer, footer a
+    color #a09c9c
+ 
+  /* 归档页 */
+  .list-group-item
+    color #a09c9c
+    background-color #282c34
+
+    &:hover
+      background-color #46484d
+
+  /* 标签页 */
+  .tagcloud a:hover
+    background-color #46484d
+
+  /* 友链页 */
+  .links
+    .card 
+      background-color #282c34
+
+    .card-body:hover
+      background-color #46484d
+
+    .link-title, .link-intro
+      color #a09c9c
+
+  /* note */
+  .note-info
+    background-color #3b5359
+    border-color #006d80
+
+  .note-danger
+    background-color #783f42
+    border-color #670009
+
+  .note-success
+    background-color #2a3e2e
+    border-color #005915
+
+  .note-warning
+    background-color #5b543e
+    border-color #846500
+
+  .note-primary
+    background-color #455a6f
+    border-color #004188
+
+  /* Valine */
+  div#comments
+    *
+      background-color #282c34
+
+    input, textarea
+      color #a09c9c !important
