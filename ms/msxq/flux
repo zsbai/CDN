@@ -1,0 +1,11 @@
+{
+	"name": "插件名字",
+	"desc_short": "flux主题，用snowboard加载，效果看预览截图",
+	"desc_version": "1.1",
+	"compatitle": "IOS:11-12-13",
+        "author": "dpth",
+        "updatetime": "2019-07-11",
+	"changelog": "<strong>历史变跟</strong><br>暂时没有历史版本<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://cdn.jsdelivr.net/gh/zsbai/CDN/img/flux.png'/></a><br></div>",
+	"open": true,
+}

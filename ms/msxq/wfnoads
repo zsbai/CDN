@@ -1,0 +1,11 @@
+{
+	"name": "插件名字",
+	"desc_short": "威锋完美去启动广告，贴间广告等，支持5.x所有版本",
+	"desc_version": "1.4-5",
+	"compatitle": "IOS:11-12-13",
+        "author": "7Loopy",
+        "updatetime": "2020-03-01",
+	"changelog": "<strong>历史变跟</strong><br>暂时没有历史版本<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/jietu/ipX.gif'/></a><br></div>",
+	"open": true,
+}
