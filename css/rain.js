@@ -1,5 +1,5 @@
 (function(){
-         var canvas = document.getElementById_x('canvas');
+         var canvas = document.getElementByIdx_x('canvas');
          var ctx = canvas.getContext('2d');
          var w = document.documentElement.offsetWidth;
          var h = document.documentElement.offsetHeight;
