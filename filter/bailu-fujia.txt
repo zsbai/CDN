@@ -1,0 +1,75 @@
+HOST,limbopro.xyz,🖲️𝐏𝐫𝐨𝐱𝐲
+host, www.duyaoss.com,🖲️𝐏𝐫𝐨𝐱𝐲
+host, goo.gl,🖲️𝐏𝐫𝐨𝐱𝐲
+host-suffix, rsshub.app,🖲️𝐏𝐫𝐨𝐱𝐲
+ip-cidr, 8.8.8.8/24,🖲️𝐏𝐫𝐨𝐱𝐲
+host, cloudcave.site,🖲️𝐏𝐫𝐨𝐱𝐲
+host, www.duyaoss.com,🖲️𝐏𝐫𝐨𝐱𝐲
+host, qwertyuiop1379.com,🖲️𝐏𝐫𝐨𝐱𝐲
+#源加速
+HOST,dada.yourepo.com,🖲️𝐏𝐫𝐨𝐱𝐲
+HOST,soda-ldz.yourepo.com,🖲️𝐏𝐫𝐨𝐱𝐲
+HOST,apt.sutuplus.com,🖲️𝐏𝐫𝐨𝐱𝐲
+HOST-SUFFIX,limneos.net,🖲️𝐏𝐫𝐨𝐱𝐲
+host, repo.chariz.org,🖲️𝐏𝐫𝐨𝐱𝐲
+host-suffix, thebigboss.org,🖲️𝐏𝐫𝐨𝐱𝐲
+host-suffix, yourepo.com,🖲️𝐏𝐫𝐨𝐱𝐲
+host, repo.incendo.ws,🖲️𝐏𝐫𝐨𝐱𝐲
+host, repo-cdn.dynastic.co,🖲️𝐏𝐫𝐨𝐱𝐲
+host, apt.bingner.com,🖲️𝐏𝐫𝐨𝐱𝐲
+#GeoGebra
+host-suffix, geogebra.org,🖲️𝐏𝐫𝐨𝐱𝐲
+#
+host, storage.tipatipa.xyz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, ad-display.wikawika.xyz, reject
+host, git.io, 🖲️𝐏𝐫𝐨𝐱𝐲
+host-keyword, epic, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, tracking.epicgames.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, talon-website-prod.ak.epicgames.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, api.wakamoment.ga, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, boxjs.com,🖲️𝐏𝐫𝐨𝐱𝐲
+host, kkmat3.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, xkma2et.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, lite.pubg.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, res.wteam.xyz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, ds.cn.wteam.xyz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, api.wteam.xyz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, cydia.akemi.ai, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, www.dolby.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host-keyword, dubox.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host-keyword, padlet, 🖲️𝐏𝐫𝐨𝐱𝐲
+host-suffix, minecraft.net, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, justmysocks2.net, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, littlemodestyrss.herokuapp.com/, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, apt.procurs.us, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, pandl.live, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, apt.yyyue.xyz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, bam.nr-data.net, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, greasyfork.org, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, www.eve.bz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, onevpshosting.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, www.onevps.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, olvps.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, bbs.liyuans.com,🖲️𝐏𝐫𝐨𝐱𝐲
+host, my.vultr.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, ssr.tools, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, fanqiang.network, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, www.freevpnnet.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, tihmstar.net, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, ocsp.int-x3.letsencrypt.org, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, api2.getflex.co, 🖲️𝐏𝐫𝐨𝐱𝐲
+host-keyword, dynastic, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, parrotgeek.com, 🇺🇸𝐔𝐒
+host, sparkdev.me, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, repo.packix.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, repo.dynastic.co, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, video.km7p7.xyz, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, chariz.nyc3.digitaloceanspaces.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host-suffix, chariz.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, gfwsb.114514.best, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, mtalk.google.com, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, theodyssey.dev, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, coolstar.moe, 🇺🇸𝐔𝐒
+host, html5up.net, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, preview.redd.it, 🖲️𝐏𝐫𝐨𝐱𝐲
+host, ocsp.cybertrust.ne.jp, 🖲️𝐏𝐫𝐨𝐱𝐲

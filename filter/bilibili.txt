@@ -1,0 +1,29 @@
+
+# > Bilibili
+host, grpc.biliapi.net
+host-suffix, hpplay.cn, bilibili
+host, biliapi.com, bilibili
+ip-cidr, 120.92.137.36/32, bilibili
+host, devicemgr.hpplay.cn, bilibili
+USER-AGENT,*bili*,bilibili
+HOST-KEYWORD,bilibili,bilibili
+HOST-SUFFIX,acgvideo.com,bilibili
+HOST-SUFFIX,bilibili.com,bilibili
+HOST-SUFFIX,hdslb.com,bilibili
+ip-cidr, 120.92.141.155/32
+ip-cidr, 120.92.147.239/32
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+USER-AGENT,*bili*
+host, upos-hz-mirrorakam.akamaized.net
+host-suffix, bigfunapp.cn
+host-KEYWORD, bigfun
