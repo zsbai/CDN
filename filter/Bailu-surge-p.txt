@@ -1,3 +1,10 @@
+DOMAIN-KEYWORD,debian
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,pximg.net
+DOMAIN,i.pximg.net
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,ucas.com
 DOMAIN,limbopro.xyz 
 DOMAIN, www.duyaoss.com 
 DOMAIN, goo.gl 
