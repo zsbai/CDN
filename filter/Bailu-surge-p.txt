@@ -16,7 +16,6 @@ DOMAIN, repo-cdn.dynastic.co
 DOMAIN, apt.bingner.com 
 DOMAIN-SUFFIX, geogebra.org 
 DOMAIN, storage.tipatipa.xyz 
-DOMAIN, ad-display.wikawika.xyz, reject
 DOMAIN, git.io 
 DOMAIN-KEYWORD, epic 
 DOMAIN, tracking.epicgames.com 
@@ -244,8 +243,6 @@ USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org 
 DOMAIN-SUFFIX,phncdn.com 
 DOMAIN-SUFFIX,phprcdn.com 
-DOMAIN-SUFFIX, pornhub.com, reject
-DOMAIN-SUFFIX, pornhubpremium.com, reject
 USER-AGENT,TaiwanGood* 
 DOMAIN-SUFFIX,skyking.com.tw 
 DOMAIN,hamifans.emome.net 
