@@ -1,8 +1,30 @@
+# > Google
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,.blogspot.
+# > Line
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,naver.jp
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.144.0/21,no-resolve
+# > pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pximg.net
 
 DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,pximg.net
 DOMAIN,i.pximg.net
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,ucas.com
@@ -299,6 +321,7 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com  
 DOMAIN-SUFFIX,whatsapp.net  
 DOMAIN-KEYWORD,facebook  
+# > Twitter
 DOMAIN-SUFFIX,pscp.tv  
 DOMAIN-SUFFIX,periscope.tv  
 DOMAIN-SUFFIX,t.co  
@@ -306,16 +329,15 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com  
 DOMAIN-SUFFIX,twitpic.com  
 DOMAIN-SUFFIX,vine.co  
-DOMAIN-KEYWORD,twitter  
+DOMAIN-SUFFIX,twitter.com
+# > Telegram
 DOMAIN-SUFFIX,t.me 
 DOMAIN-SUFFIX,tdesktop.com 
 DOMAIN-SUFFIX,telegra.ph  
 DOMAIN-SUFFIX,telegram.me 
 DOMAIN-SUFFIX,telegram.org  
-DOMAIN-SUFFIX,telesco.pe  
-DOMAIN-SUFFIX,line.me  
-DOMAIN-SUFFIX,line-apps.com  
-DOMAIN-SUFFIX,line-scdn.net  
+DOMAIN-SUFFIX,telesco.pe   
+
 DOMAIN-SUFFIX,naver.jp  
 DOMAIN-SUFFIX,4shared.com  
 DOMAIN-SUFFIX,520cc.cc  
@@ -517,8 +539,7 @@ DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pchome.com.tw  
 DOMAIN-SUFFIX,pcloud.com  
 DOMAIN-SUFFIX,picacomic.com  
-DOMAIN-SUFFIX,pinimg.com  
-DOMAIN-SUFFIX,pixiv.net  
+DOMAIN-SUFFIX,pinimg.com   
 DOMAIN-SUFFIX,player.fm  
 DOMAIN-SUFFIX,plurk.com  
 DOMAIN-SUFFIX,po18.tw  
