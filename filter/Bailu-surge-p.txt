@@ -22,7 +22,17 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
 
+# > vika pica
+DOMAIN-SUFFIX, vikacg,com
+DOMAIN-SUFFIX, picacomic.com
+
+# > custom
 DOMAIN, surge-api-nine.vercel.app
+DOMAIN-SUFFIX, qcrane-3.xyz
+DOMAIN-SUFFIX, gravatar.com
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX, cloudcave.cloud
+
 DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,openwrt.org
