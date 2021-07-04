@@ -45,6 +45,15 @@ IP6-CIDR,2001:67c:4e8::/48
 DOMAIN-SUFFIX, vikacg,com
 DOMAIN-SUFFIX, picacomic.com
 
+# > Google Drive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,GoogleDrive
+USER-AGENT,Google.Drive*,GoogleDrive
+USER-AGENT,*com.google.Drive*,GoogleDrive
+DOMAIN-SUFFIX,docs.google.com,GoogleDrive
+DOMAIN-SUFFIX,drive.google.com,GoogleDrive
+DOMAIN-SUFFIX,googledrive.com,GoogleDrive
+DOMAIN-SUFFIX,googleusercontent.com,GoogleDrive
+
 # > custom
 DOMAIN, surge-api-nine.vercel.app
 DOMAIN-SUFFIX, qcrane-3.xyz
