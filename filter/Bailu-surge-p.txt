@@ -57,6 +57,8 @@ DOMAIN-SUFFIX, gravatar.com
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX, cloudcave.cloud
 DOMAIN-SUFFIX, ift.tt
+DOMAIN-SUFFIX, vercel.com
+DOMAIN-SUFFIX, vercel.app
 
 DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,pythonhosted.org
