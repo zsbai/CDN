@@ -59,6 +59,7 @@ DOMAIN-SUFFIX, cloudcave.cloud
 DOMAIN-SUFFIX, ift.tt
 DOMAIN-SUFFIX, vercel.com
 DOMAIN-SUFFIX, vercel.app
+DOMAIN-SUFFIX, squoosh.app
 
 DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,pythonhosted.org
